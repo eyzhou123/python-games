@@ -3,3 +3,5 @@ Mini python games created in Carnegie Mellon's 15-112 course (Fundamentals of Pr
 
 Simply run these programs from your a terminal or text editor. Some games (isola and othello) are text based and will not 
 open a new window.
+
+![Alt text](/python_games_preview.png?raw=true "PYTHON GAMES")
